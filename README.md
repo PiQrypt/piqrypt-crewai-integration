@@ -1,5 +1,7 @@
 # piqrypt-crewai-integration
 
+> Standard: [AISS v2.0](https://aiss-standard.org) · Full stack: [piqrypt.com](https://piqrypt.com)
+
 **Verifiable AI Agent Memory_Cryptographic audit trail for CrewAI agents.**
 
 [![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-crewai-integration/)
